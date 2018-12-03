@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.zhuoyan.es.config.ESAutoConfiguration,\
+com.zhuoyan.es.config.ESDataAutoConfiguration

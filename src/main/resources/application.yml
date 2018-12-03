@@ -1,0 +1,5 @@
+spring.rest.client.elasticsearch.cluster-nodes: ${ES_CLUSTER_NODES:localhost:9200}
+spring.rest.client.elasticsearch.username: ${ES_CLUSTER_USERNAME:}
+spring.rest.client.elasticsearch.password: ${ES_CLUSTER_PASSWORD:}
+
+logging.level.com.zhuoyan: ${LOG_LEVEL:debug}
